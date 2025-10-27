@@ -135,10 +135,6 @@ Dhanush M
 
 📧 mrdhanush11@gmail.com
 
-🔗 LinkedIn
-
-💻 GitHub
-
 ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub — it helps others find it!
